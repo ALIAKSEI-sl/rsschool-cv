@@ -13,8 +13,8 @@ I am 25 years old, I work as a design engineer. I am reliable and dependable. My
 * Git, GitHub
 * VS Code
 # Education
-* **University:** Belarusian National Technical University
+* **University:** _Belarusian National Technical University_
 * **Courses:**
-    + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+    + _RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)_
 # Languages
 English - A1
