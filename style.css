@@ -40,6 +40,7 @@
   border-bottom: 0.2rem solid rgb(94, 93, 104);
   border-right: 0.2rem solid rgb(94, 93, 104);
   border-left: 0.2rem solid rgb(94, 93, 104);
+  
 }
 .background {
   background-color: rgb(229, 226, 226);
@@ -89,3 +90,4 @@ ul {
 nav {
    height: 100%;
  }
+ 
